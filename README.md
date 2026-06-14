@@ -35,13 +35,13 @@ I am a passionate Full Stack Web Developer with knowledge of frontend and backen
 ---
 
 ## 🔗 Live Demo
-[Click here to view my portfolio](https://your-github-pages-link)
+https://sandeep-0209.github.io/Sandeep-Portfolio/
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: linkedin.com/in/sandeep-keshri-300332368  
 
 ---
 
