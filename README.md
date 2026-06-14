@@ -41,7 +41,7 @@ https://sandeep-0209.github.io/Sandeep-Portfolio/
 
 ## 📫 Contact
 - GitHub: https://github.com/your-username  
-- LinkedIn: linkedin.com/in/sandeep-keshri-300332368  
+- LinkedIn: https://linkedin.com/in/sandeep-keshri-300332368  
 
 ---
 
