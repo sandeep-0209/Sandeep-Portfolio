@@ -3,9 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background: #0f172a;
+    color: white;
 }
+
 html{
     scroll-behavior: smooth;
 }
@@ -50,23 +54,7 @@ header{
     cursor: pointer;
     color: white;
 }
-/* #home{
-    margin-top: 80px;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-#home h1{
-    font-size: 50px;
-} */
-
-body{
-    font-family: 'Poppins', sans-serif;
-    background: #0f172a;
-    color: white;
-}
 
 .hero{
     min-height: 100vh;
@@ -137,13 +125,10 @@ body{
     color: white;
 }
 
-.hero-image{
-    flex: 1;
-    text-align: center;
-}
 
 .hero-image{
     flex: 1;
+    text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
